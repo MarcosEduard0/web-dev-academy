@@ -1,7 +1,8 @@
 ## Descrição
 
-Projeto desenvolvido por Marcos Eduardo, para o processo seletivo da Medilab Sistemas[site oficial](www.medilabsistemas.com.br).
-Foi ultilizado o framework CodeIgniter com conexão ao banco de dados. O banco de dados pode ser encontrado na pasta "banco de dados", e a configuração do banco pode ser feita no arquivo `.env`
+Projeto desenvolvido por Marcos Eduardo, para o processo seletivo da [Medilab Sistemas](www.medilabsistemas.com.br).
+
+Foi ultilizado o framework CodeIgniter com conexão ao banco de dados. O banco de dados pode ser encontrado na pasta "banco de dados", e a configuração do banco pode ser feita no arquivo `.env`.
 
 ## O que é o CodeIgniter?
 
