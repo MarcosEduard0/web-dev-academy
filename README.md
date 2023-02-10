@@ -23,3 +23,10 @@ Necessário PHP versão 7.4 ou superior, com as seguintes extensões instaladas:
 - [intl](http://php.net/manual/en/intl.requirements.php)
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
+
+## Layout
+
+<center>
+<img src="public/assets/img/home.png" alt="drawing"/, height = 400px>
+<img src="public/assets/img/cadastro.png" alt="drawing"/, height = 400px>
+</center>
