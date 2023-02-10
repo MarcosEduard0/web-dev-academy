@@ -4,16 +4,11 @@
         <ul class="list-unstyled mb-0 py-3 pt-md-1">
             <li class="my-3 mx-0 border-top"></li>
         </ul>
-        <?= form_open('cliente/salvar', [
-            'class' => 'needs-validation',
-        ]) ?>
+        <?= form_open('cliente/salvar') ?>
         <div class="row g-3">
             <div class="col-md-4">
                 <label for="nome" class="form-label">Nome / Razão Social</label>
                 <input type="text" value="<?= isset($cliente['nome']) ? $cliente['nome'] : "" ?>" class="form-control" name="nome" required>
-                <div class="invalid-feedback">
-                    Please choose a username.
-                </div>
             </div>
             <div class="col-md-2">
                 <label for="nascimento" class="form-label">Data de Nascimento</label>
