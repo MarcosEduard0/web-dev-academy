@@ -1,6 +1,6 @@
 ## Descrição
 
-Projeto desenvolvido por Marcos Eduardo, para o processo seletivo da [Medilab Sistemas](www.medilabsistemas.com.br).
+Projeto desenvolvido por Marcos Eduardo, para o processo seletivo da [Medilab Sistemas](www.medilabsistemas.com.br). Estou usando o modelo MVC (Models, Views e Controllers), essas pastas podem ser localizada dentro da pasta "app".
 
 Foi ultilizado o framework CodeIgniter com conexão ao banco de dados. O banco de dados pode ser encontrado na pasta "banco de dados", e a configuração do banco pode ser feita no arquivo `.env`.
 
