@@ -1,4 +1,3 @@
-<?= validation_list_errors() ?>
 <div class="d-flex justify-content-center align-items-center container">
     <div class="container mt-5">
         <h2 class="m-0">Novo Cliente</h2>
