@@ -1,0 +1,707 @@
+CRITICAL - 2023-02-07 01:03:19 --> Invalid file: "home/home_index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home_index.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home/home_index', [], true)
+ 3 APPPATH\Controllers\Home.php(11): view('home/home_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 01:06:26 --> Invalid file: "home/home_index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home_index.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home/home_index', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('home/home_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 01:06:27 --> Invalid file: "home/home_index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home_index.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home/home_index', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('home/home_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 01:06:30 --> Invalid file: "home/home_index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home_index.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home/home_index', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('home/home_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 01:06:30 --> Invalid file: "home/home_index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home_index.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home/home_index', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('home/home_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 01:06:30 --> Invalid file: "home/home_index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home_index.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home/home_index', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('home/home_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 01:06:30 --> Invalid file: "home/home_index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home_index.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home/home_index', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('home/home_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 01:06:31 --> Invalid file: "home/home_index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home_index.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home/home_index', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('home/home_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 01:06:31 --> Invalid file: "home/home_index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home_index.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home/home_index', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('home/home_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 01:06:31 --> Invalid file: "home/home_index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home_index.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home/home_index', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('home/home_index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 01:37:26 --> Invalid file: "home.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('home', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 01:37:30 --> Invalid file: "home.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('home', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 01:37:32 --> Invalid file: "home.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('home', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 02:32:54 --> Undefined variable: pagina
+in APPPATH\Views\clientes.php on line 84.
+ 1 APPPATH\Views\clientes.php(84): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: pagina', 'APPPATH\\Views\\clientes.php', 84, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\clientes.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('clientes', [], true)
+ 5 APPPATH\Controllers\Cliente.php(19): view('clientes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-07 02:48:48 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `cl...', 0)
+#1 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `cl...')
+#2 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `cl...')
+#3 C:\xampp\htdocs\projeto\system\Database\BaseBuilder.php(2777): CodeIgniter\Database\BaseConnection->query('DELETE FROM `cl...', Array, false)
+#4 C:\xampp\htdocs\projeto\system\Model.php(455): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\projeto\system\BaseModel.php(1065): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\projeto\app\Controllers\Cliente.php(26): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\projeto\system\CodeIgniter.php(934): App\Controllers\Cliente->deletar('2')
+#8 C:\xampp\htdocs\projeto\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#9 C:\xampp\htdocs\projeto\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\projeto\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\projeto\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-02-07 02:48:48 --> Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2777): CodeIgniter\Database\BaseConnection->query('DELETE FROM `clientes`
+WHERE `id` IN :id:', [...], false)
+ 2 SYSTEMPATH\Model.php(455): CodeIgniter\Database\BaseBuilder->delete()
+ 3 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete([...], false)
+ 4 APPPATH\Controllers\Cliente.php(26): CodeIgniter\BaseModel->delete([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->deletar('2')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-07 02:50:29 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `cl...', 0)
+#1 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `cl...')
+#2 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `cl...')
+#3 C:\xampp\htdocs\projeto\system\Database\BaseBuilder.php(2777): CodeIgniter\Database\BaseConnection->query('DELETE FROM `cl...', Array, false)
+#4 C:\xampp\htdocs\projeto\system\Model.php(455): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\projeto\system\BaseModel.php(1065): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\projeto\app\Controllers\Cliente.php(26): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\projeto\system\CodeIgniter.php(934): App\Controllers\Cliente->deletar('2')
+#8 C:\xampp\htdocs\projeto\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#9 C:\xampp\htdocs\projeto\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\projeto\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\projeto\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-02-07 02:50:29 --> Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2777): CodeIgniter\Database\BaseConnection->query('DELETE FROM `clientes`
+WHERE `id` IN :id:', [...], false)
+ 2 SYSTEMPATH\Model.php(455): CodeIgniter\Database\BaseBuilder->delete()
+ 3 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete([...], false)
+ 4 APPPATH\Controllers\Cliente.php(26): CodeIgniter\BaseModel->delete([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->deletar('2')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-07 02:50:42 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `cl...', 0)
+#1 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `cl...')
+#2 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `cl...')
+#3 C:\xampp\htdocs\projeto\system\Database\BaseBuilder.php(2777): CodeIgniter\Database\BaseConnection->query('DELETE FROM `cl...', Array, false)
+#4 C:\xampp\htdocs\projeto\system\Model.php(455): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\projeto\system\BaseModel.php(1065): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\projeto\app\Controllers\Cliente.php(27): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\projeto\system\CodeIgniter.php(934): App\Controllers\Cliente->deletar('2')
+#8 C:\xampp\htdocs\projeto\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#9 C:\xampp\htdocs\projeto\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\projeto\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\projeto\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-02-07 02:50:42 --> Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2777): CodeIgniter\Database\BaseConnection->query('DELETE FROM `clientes`
+WHERE `id` IN :id:', [...], false)
+ 2 SYSTEMPATH\Model.php(455): CodeIgniter\Database\BaseBuilder->delete()
+ 3 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete([...], false)
+ 4 APPPATH\Controllers\Cliente.php(27): CodeIgniter\BaseModel->delete([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->deletar('2')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-07 03:22:37 --> mysqli_sql_exception: Unknown column 'clientes.deleted_at' in 'where clause' in C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\projeto\system\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\projeto\system\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\projeto\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\projeto\app\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+#7 C:\xampp\htdocs\projeto\system\CodeIgniter.php(934): App\Controllers\Cliente->index()
+#8 C:\xampp\htdocs\projeto\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#9 C:\xampp\htdocs\projeto\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\projeto\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\projeto\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-02-07 03:22:37 --> Unknown column 'clientes.deleted_at' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `clientes`
+WHERE `clientes`.`deleted_at` IS NULL', [], false)
+ 2 SYSTEMPATH\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 SYSTEMPATH\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+ 4 APPPATH\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-07 03:22:42 --> mysqli_sql_exception: Unknown column 'clientes.deleted_at' in 'where clause' in C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\projeto\system\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\projeto\system\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\projeto\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\projeto\app\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+#7 C:\xampp\htdocs\projeto\system\CodeIgniter.php(934): App\Controllers\Cliente->index()
+#8 C:\xampp\htdocs\projeto\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#9 C:\xampp\htdocs\projeto\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\projeto\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\projeto\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-02-07 03:22:42 --> Unknown column 'clientes.deleted_at' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `clientes`
+WHERE `clientes`.`deleted_at` IS NULL', [], false)
+ 2 SYSTEMPATH\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 SYSTEMPATH\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+ 4 APPPATH\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-07 03:22:44 --> mysqli_sql_exception: Unknown column 'clientes.deleted_at' in 'where clause' in C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\projeto\system\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\projeto\system\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\projeto\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\projeto\app\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+#7 C:\xampp\htdocs\projeto\system\CodeIgniter.php(934): App\Controllers\Cliente->index()
+#8 C:\xampp\htdocs\projeto\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#9 C:\xampp\htdocs\projeto\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\projeto\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\projeto\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-02-07 03:22:44 --> Unknown column 'clientes.deleted_at' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `clientes`
+WHERE `clientes`.`deleted_at` IS NULL', [], false)
+ 2 SYSTEMPATH\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 SYSTEMPATH\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+ 4 APPPATH\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-07 03:22:46 --> mysqli_sql_exception: Unknown column 'clientes.deleted_at' in 'where clause' in C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\projeto\system\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\projeto\system\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\projeto\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\projeto\app\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+#7 C:\xampp\htdocs\projeto\system\CodeIgniter.php(934): App\Controllers\Cliente->index()
+#8 C:\xampp\htdocs\projeto\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#9 C:\xampp\htdocs\projeto\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\projeto\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\projeto\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-02-07 03:22:46 --> Unknown column 'clientes.deleted_at' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `clientes`
+WHERE `clientes`.`deleted_at` IS NULL', [], false)
+ 2 SYSTEMPATH\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 SYSTEMPATH\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+ 4 APPPATH\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-07 03:22:47 --> mysqli_sql_exception: Unknown column 'clientes.deleted_at' in 'where clause' in C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\projeto\system\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\projeto\system\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\projeto\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\projeto\app\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+#7 C:\xampp\htdocs\projeto\system\CodeIgniter.php(934): App\Controllers\Cliente->index()
+#8 C:\xampp\htdocs\projeto\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#9 C:\xampp\htdocs\projeto\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\projeto\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\projeto\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-02-07 03:22:47 --> Unknown column 'clientes.deleted_at' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `clientes`
+WHERE `clientes`.`deleted_at` IS NULL', [], false)
+ 2 SYSTEMPATH\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 SYSTEMPATH\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+ 4 APPPATH\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-07 03:22:48 --> mysqli_sql_exception: Unknown column 'clientes.deleted_at' in 'where clause' in C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\projeto\system\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\projeto\system\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\projeto\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\projeto\app\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+#7 C:\xampp\htdocs\projeto\system\CodeIgniter.php(934): App\Controllers\Cliente->index()
+#8 C:\xampp\htdocs\projeto\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#9 C:\xampp\htdocs\projeto\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\projeto\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\projeto\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-02-07 03:22:48 --> Unknown column 'clientes.deleted_at' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `clientes`
+WHERE `clientes`.`deleted_at` IS NULL', [], false)
+ 2 SYSTEMPATH\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 SYSTEMPATH\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+ 4 APPPATH\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-07 03:22:50 --> mysqli_sql_exception: Unknown column 'clientes.deleted_at' in 'where clause' in C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\projeto\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\projeto\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\projeto\system\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\projeto\system\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\projeto\system\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\projeto\app\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+#7 C:\xampp\htdocs\projeto\system\CodeIgniter.php(934): App\Controllers\Cliente->index()
+#8 C:\xampp\htdocs\projeto\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+#9 C:\xampp\htdocs\projeto\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\projeto\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\projeto\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-02-07 03:22:50 --> Unknown column 'clientes.deleted_at' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1686): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `clientes`
+WHERE `clientes`.`deleted_at` IS NULL', [], false)
+ 2 SYSTEMPATH\Model.php(605): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 SYSTEMPATH\BaseModel.php(1188): CodeIgniter\Model->countAllResults(false)
+ 4 APPPATH\Controllers\Cliente.php(19): CodeIgniter\BaseModel->paginate(10)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 03:29:45 --> Call to undefined function form_open()
+in APPPATH\Views\formulario.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('formulario', [], true)
+ 4 APPPATH\Controllers\Cliente.php(26): view('formulario')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->editar('1')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 03:31:22 --> Call to undefined function form_open()
+in APPPATH\Views\formulario.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('formulario', [], true)
+ 4 APPPATH\Controllers\Cliente.php(26): view('formulario')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->editar('1')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 13:30:09 --> Undefined variable: universidade_options
+in APPPATH\Views\formulario.php on line 29.
+ 1 APPPATH\Views\formulario.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: universidade_options', 'APPPATH\\Views\\formulario.php', 29, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('formulario', [], true)
+ 5 APPPATH\Controllers\Cliente.php(58): view('formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->editar('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 14:52:43 --> Undefined index: tipo_telefone
+in APPPATH\Views\formulario.php on line 47.
+ 1 APPPATH\Views\formulario.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: tipo_telefone', 'APPPATH\\Views\\formulario.php', 47, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('formulario', [], true)
+ 5 APPPATH\Controllers\Cliente.php(58): view('formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->editar('3')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 16:32:06 --> Undefined index: tipo_documento
+in APPPATH\Views\formulario.php on line 24.
+ 1 APPPATH\Views\formulario.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: tipo_documento', 'APPPATH\\Views\\formulario.php', 24, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('formulario', [], true)
+ 5 APPPATH\Controllers\Cliente.php(59): view('formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->editar('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 16:34:09 --> Undefined index: estado_civil
+in APPPATH\Views\formulario.php on line 38.
+ 1 APPPATH\Views\formulario.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: estado_civil', 'APPPATH\\Views\\formulario.php', 38, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('formulario', [], true)
+ 5 APPPATH\Controllers\Cliente.php(61): view('formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->editar('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 16:34:55 --> Undefined index: possui_filhos
+in APPPATH\Views\formulario.php on line 48.
+ 1 APPPATH\Views\formulario.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: possui_filhos', 'APPPATH\\Views\\formulario.php', 48, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('formulario', [], true)
+ 5 APPPATH\Controllers\Cliente.php(61): view('formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->editar('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 16:35:20 --> Undefined index: sexo
+in APPPATH\Views\formulario.php on line 61.
+ 1 APPPATH\Views\formulario.php(61): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: sexo', 'APPPATH\\Views\\formulario.php', 61, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('formulario', [], true)
+ 5 APPPATH\Controllers\Cliente.php(61): view('formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->editar('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 16:36:33 --> Call to a member function first() on array
+in APPPATH\Models\ClienteModel.php on line 66.
+ 1 APPPATH\Controllers\Cliente.php(58): App\Models\ClienteModel->getClienteFull('2')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->editar('2')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 16:48:09 --> Call to undefined method App\Models\ClienteModel::getResultArray
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Models\ClienteModel.php(60): CodeIgniter\Model->__call('getResultArray', [])
+ 2 APPPATH\Controllers\Cliente.php(20): App\Models\ClienteModel->getClienteFull()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-07 16:48:31 --> Call to undefined method App\Models\ClienteModel::getResultArray
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Models\ClienteModel.php(61): CodeIgniter\Model->__call('getResultArray', [])
+ 2 APPPATH\Controllers\Cliente.php(20): App\Models\ClienteModel->getClienteFull()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-07 17:37:57 --> "bootstrap4_pagination" is not a valid Pager template.
+in SYSTEMPATH\Pager\Pager.php on line 120.
+ 1 SYSTEMPATH\Pager\Pager.php(120): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('bootstrap4_pagination')
+ 2 SYSTEMPATH\Pager\Pager.php(83): CodeIgniter\Pager\Pager->displayLinks('bootstrap', 'bootstrap4_pagination')
+ 3 APPPATH\Views\clientes.php(30): CodeIgniter\Pager\Pager->links('bootstrap', 'bootstrap4_pagination')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\clientes.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('clientes', [], true)
+ 7 APPPATH\Controllers\Cliente.php(24): view('clientes', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-07 17:38:07 --> "bootstrap5_pagination" is not a valid Pager template.
+in SYSTEMPATH\Pager\Pager.php on line 120.
+ 1 SYSTEMPATH\Pager\Pager.php(120): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('bootstrap5_pagination')
+ 2 SYSTEMPATH\Pager\Pager.php(83): CodeIgniter\Pager\Pager->displayLinks('bootstrap', 'bootstrap5_pagination')
+ 3 APPPATH\Views\clientes.php(30): CodeIgniter\Pager\Pager->links('bootstrap', 'bootstrap5_pagination')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\clientes.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('clientes', [], true)
+ 7 APPPATH\Controllers\Cliente.php(24): view('clientes', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-07 17:38:47 --> "bootstrap4_pagination" is not a valid Pager template.
+in SYSTEMPATH\Pager\Pager.php on line 120.
+ 1 SYSTEMPATH\Pager\Pager.php(120): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('bootstrap4_pagination')
+ 2 SYSTEMPATH\Pager\Pager.php(83): CodeIgniter\Pager\Pager->displayLinks('default', 'bootstrap4_pagination')
+ 3 APPPATH\Views\clientes.php(30): CodeIgniter\Pager\Pager->links('default', 'bootstrap4_pagination')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\clientes.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('clientes', [], true)
+ 7 APPPATH\Controllers\Cliente.php(24): view('clientes', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 17:55:30 --> "bootstrap_pagination" is not a valid Pager template.
+in SYSTEMPATH\Pager\Pager.php on line 120.
+ 1 SYSTEMPATH\Pager\Pager.php(120): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('bootstrap_pagination')
+ 2 SYSTEMPATH\Pager\Pager.php(83): CodeIgniter\Pager\Pager->displayLinks('default', 'bootstrap_pagination')
+ 3 APPPATH\Views\clientes.php(30): CodeIgniter\Pager\Pager->links('default', 'bootstrap_pagination')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\clientes.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('clientes', [], true)
+ 7 APPPATH\Controllers\Cliente.php(24): view('clientes', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 15:00:49 --> Arquivo inválido: clientes.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('clientes.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('clientes', [], true)
+ 3 APPPATH\Controllers\Cliente.php(24): view('clientes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 15:01:25 --> Arquivo inválido: formulario.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('formulario.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('formulario', [], true)
+ 3 APPPATH\Controllers\Cliente.php(60): view('formulario', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->editar('19')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 18:57:59 --> Call to undefined method App\Models\ClienteModel::getClienteFull
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\Cliente.php(22): CodeIgniter\Model->__call('getClienteFull', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-02-07 23:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:43:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:43:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:43:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:48:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:48:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-07 23:49:14 --> Undefined variable: cliente
+in APPPATH\Views\Cliente\formulario.php on line 7.
+ 1 APPPATH\Views\Cliente\formulario.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: cliente', 'APPPATH\\Views\\Cliente\\formulario.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Cliente\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Cliente/formulario', [], true)
+ 5 APPPATH\Controllers\Cliente.php(32): view('Cliente/formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->adicionar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 23:50:02 --> Undefined variable: cliente
+in APPPATH\Views\Cliente\formulario.php on line 7.
+ 1 APPPATH\Views\Cliente\formulario.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: cliente', 'APPPATH\\Views\\Cliente\\formulario.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Cliente\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Cliente/formulario', [], true)
+ 5 APPPATH\Controllers\Cliente.php(32): view('Cliente/formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->adicionar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-07 23:50:18 --> Undefined variable: cliente
+in APPPATH\Views\Cliente\formulario.php on line 7.
+ 1 APPPATH\Views\Cliente\formulario.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: cliente', 'APPPATH\\Views\\Cliente\\formulario.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Cliente\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Cliente/formulario', [], true)
+ 5 APPPATH\Controllers\Cliente.php(32): view('Cliente/formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->adicionar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-02-07 23:50:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-07 23:50:40 --> Undefined variable: cliente
+in APPPATH\Views\Cliente\formulario.php on line 7.
+ 1 APPPATH\Views\Cliente\formulario.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: cliente', 'APPPATH\\Views\\Cliente\\formulario.php', 7, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Cliente\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('Cliente/formulario', [], true)
+ 5 APPPATH\Controllers\Cliente.php(32): view('Cliente/formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cliente->adicionar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cliente))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-02-07 23:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:52:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:52:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:55:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:59:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-07 23:59:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
